@@ -37,7 +37,7 @@
     "lunr": "^2.3.9",
     "lunr-languages": "^1.4.0",
     "mark.js": "^8.11.1",
-    "tslib": "^2.2.0"
+    "tslib": "^2.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
